@@ -23,7 +23,7 @@ public class Filtro implements Filter {
     }
 
     protected String saluda() {
-        return "Hola soy un filtro y cambio el mensaje";
+        return "Hola soy un filtro y cambio el mensaje \nEste es un control de versiones en git";
     }
 
     @Override
