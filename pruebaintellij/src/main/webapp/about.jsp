@@ -1,3 +1,4 @@
+<%@page contentType="text/html; ISO-8859-1" pageEncoding="utf-8" %>
 <!DOCTYPE html>
 <html lang="es">
 
@@ -8,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Juan Pérez</title>
+    <title>Mi web | nosotros </title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -28,7 +29,7 @@
     <!-- Navegación -->
     <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
       <div class="container">
-        <a class="navbar-brand" href="index.jsp">Juan Pérez</a>
+        <a class="navbar-brand" href="index.jsp">Sistemas Operativos II</a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           Menú
           <i class="fa fa-bars"></i>
@@ -36,13 +37,13 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item">
-              <a class="nav-link" href="index.jsp">Portada</a>
+              <a class="nav-link" href="index.jsp">Inicio</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="about.jsp">Acerca de</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="portfolio.html">Portafolio</a>
+              <a class="nav-link" href="portfolio.jsp">Portafolio</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="contact.jsp">Contacto</a>
@@ -74,9 +75,17 @@
           <img class="img-fluid avatar" src="img/avatar.jpg" alt="">
         </div>
         <div class="col-lg-7 col-md-8">
-          <h2 class="section-heading">Juan Pérez</h2>   
-          <p>Nacido en... lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe nostrum ullam eveniet pariatur voluptates odit, fuga atque ea nobis sit soluta odio.</p>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe nostrum ullam eveniet pariatur voluptates odit...</p>
+          <h2 class="section-heading">Steeven Córdova</h2>
+          <p>Nacido en Huaquillas, un 29 de junio de 1997 </p>
+          <p>Estudiante de Ingeniería de Sistemas en la UTMACH.</p>
+          <p>Pertenece a 8vo Semestre</p>
+        </div>
+        <div class="col-lg-7 col-md-8">
+          <h2 class="section-heading">Erick Cañarte</h2>
+          <p>Nacido en Huaquillas</p>
+          <p>Estudiante de Ingeniería de Sistemas en la UTMACH.</p>
+          <p>Pertenece a 8vo Semestre</p>
+
         </div>
       </div>  
     </div>
@@ -114,7 +123,7 @@
                 </a>
               </li>
             </ul>
-            <p class="copyright text-muted">Copyright &copy; 2018 · Juan Pérez (Ingeniero Industrial) </p>
+            <p class="copyright text-muted">Copyright &copy; 2019 · Sistemas Operativos II </p>
           </div>
         </div>
       </div>

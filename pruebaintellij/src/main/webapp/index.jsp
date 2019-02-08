@@ -1,4 +1,4 @@
-<!--<page contentType="text/html; ISO-8859-1" pageEncoding="utf-8" %>-->
+<%@page contentType="text/html; ISO-8859-1" pageEncoding="utf-8" %>
 <!DOCTYPE html>
 <html lang="es">
     <head>
@@ -35,7 +35,7 @@
                             <a class="nav-link" href="about.jsp">Acerca de</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="portfolio.html">Portafolio</a>
+                            <a class="nav-link" href="portfolio.jsp">Portafolio</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="contact.jsp">Contacto</a>
@@ -51,7 +51,8 @@
                 <div class="row">
                     <div class="col-lg-8 col-md-10 mx-auto">
                         <div class="site-heading">
-                            <h1>Juan Pérez</h1>
+                            <h1>Steeven Córdova</h1>
+                            <h1>Erick Cañarte</h1>
                             <span class="subheading">Ingenieria de Sistemas</span>
                         </div>
                     </div>
