@@ -14,9 +14,10 @@
         <link href="css/clean-blog.min.css" rel="stylesheet">
     </head>
     <body>
-    <!-- Para despues
+    <!--
         <h2>Hola mundo!</h2>
-        <h3>Esta es una prueba de control de versiones</h3> -->
+        <h3>Esta es una prueba de control de versiones</h3> }
+        -->
 
         <!-- Navegación -->
         <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
