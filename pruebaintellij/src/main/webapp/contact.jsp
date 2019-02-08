@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-      <title>Mi web | Contactanos</title>
+      <title>Mi web | Contáctanos</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -25,7 +25,6 @@
   </head>
 
   <body>
-
     <!-- Navegación -->
     <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
       <div class="container">
@@ -72,7 +71,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
-          <p>Estamos a tu disposición 24/7</p>
+          <p>Estamos a tu disposición... 24/7</p>
           <br>
           <p><b>Teléfono:</b> +593 996 543 210</p>
           <p><b>Honorarios:</b> 10$/h (precio base)</p>
