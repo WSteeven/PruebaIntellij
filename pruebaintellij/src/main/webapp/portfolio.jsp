@@ -71,7 +71,7 @@
 	      	</div>
 	        <div class="col-lg-7 col-md-8">
 	      		<h2 class="section-heading title">Segundo proyecto</h2>   
-	          <p>As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm....</p>
+	          <p>As it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm....</p>
 	          <p><a href="http://google.com">Más información</a></p>
 	      	</div>
 	      </div>
