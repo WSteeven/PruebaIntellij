@@ -48,7 +48,7 @@
 	    </nav>
 
 	    <!-- Cabecera -->
-	    <header class="masthead" style="background-image: url('img/portfolio-bg.jpg')">
+	    <header class="masthead" style="background-image: url('images/portfolio-bg.jpg')">
 	      <div class="overlay"></div>
 	      <div class="container">
 	        <div class="row">
@@ -67,7 +67,7 @@
 	      <!-- Proyecto -->
 	      <div class="row project">  	
 	      	<div class="col-lg-3 col-md-4 offset-lg-1">
-			      <img class="img-fluid" src="img/about-bg.jpg" alt="">
+			      <img class="img-fluid" src="images/about-bg.jpg" alt="">
 	      	</div>
 	        <div class="col-lg-7 col-md-8">
 	      		<h2 class="section-heading title">Segundo proyecto</h2>   
