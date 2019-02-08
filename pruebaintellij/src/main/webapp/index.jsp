@@ -15,8 +15,7 @@
     </head>
     <body>
     <!--
-        <h2>Hola mundo!</h2>
-        <h3>Esta es una prueba de control de versiones</h3> }
+        <h2>Hola mundo!!</h2>
         -->
 
         <!-- Navegación -->
